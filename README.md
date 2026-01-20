@@ -1,3 +1,6 @@
+To jest fork repozytorium prowadzącego.
+Rzeczy dodane przez nas są w: [concurency/student_projects/StackAndQueue](concurency/student_projects/StackAndQueue)
+
 # When I start reviewing your code
 
 You must meet the following conditions:
